@@ -1,0 +1,12 @@
+body{
+    background-image: url(./Assets/Background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Work Sans', sans-serif;
+    height: 100vh;
+}
+
+.card__header{
+    background-image: url(./Assets/Pattern.png);
+    background-size: cover;
+}
