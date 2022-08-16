@@ -1,5 +1,4 @@
-# Codewell - Newsletter Popup starter
-
+# Codewell - Newsletter Popup
 ![Design preview](./Design/Newsie%20Newsletter%20-%20Desktop%20View.png)
 
 ## Welcome! 👋
